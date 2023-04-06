@@ -17,7 +17,7 @@ function App() {
         profissao="Programador"
       />
       <Pessoa 
-        foto="https://via.placeholder.com/160"
+        foto="https://via.placeholder.com/150"
         nome ='Pedro'
         idade="23" 
         profissao="Engenheiro"
