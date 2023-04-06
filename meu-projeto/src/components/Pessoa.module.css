@@ -1,0 +1,8 @@
+.boxPessoa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background-color: rgb(178, 243, 243);
+    padding: 15px;
+}
