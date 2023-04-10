@@ -8,7 +8,6 @@ function Pessoa({foto, nome, idade, profissao}) {
                 <p>Idade: {idade}</p>
                 <p>Profissão: {profissao}</p>
             </div>
-
         </div>
     )
 }
