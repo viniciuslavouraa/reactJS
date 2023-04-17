@@ -1,0 +1,24 @@
+.boxLogin {
+    display: flex;
+    background-color: #00000050;
+    width: 300px;
+    padding: 15px;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border-radius: 10px;
+}
+
+.boxName, .boxSenha{
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
+
+.boxBtn {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    background-color: black;
+}
