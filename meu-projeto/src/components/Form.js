@@ -8,8 +8,8 @@ function Form() {
         console.log('Cadastrou o usuário')
     }
 
-    const [name, setName] = useState('Vinicius')
-    const [senha, setSenha] = useState('joaozinh1123')
+    const [name, setName] = useState()
+    const [senha, setSenha] = useState()
 
     return(
         <div>
