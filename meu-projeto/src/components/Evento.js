@@ -9,8 +9,8 @@ function Evento() {
     }
 
     function calculo() {
-        const n1 = Math.floor(Math.random() * 2000)
-        const n2 = Math.floor(Math.random() * 2000)
+        const n1 = Math.floor(Math.random() * 10)
+        const n2 = Math.floor(Math.random() * 10)
         console.log(`${n1} + ${n2} = ${n1 + n2}`)
     }
 
